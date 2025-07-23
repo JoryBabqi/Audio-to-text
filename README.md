@@ -1,4 +1,5 @@
 #Arabic Speech to Text using Hugging Face 
+
 This project takes an Arabic audio file (from the Arabic Speech Corpus or any .wav file), converts the speech into text using SpeechRecognition, and then generates a reply or summary using a Hugging Face text-generation model.
 
 Requirements:
